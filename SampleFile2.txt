@@ -1,2 +1,2 @@
 This is a sample file 2
-Comparison in main
+Comparison in mainStash example, Change in file2

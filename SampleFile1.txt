@@ -1,3 +1,7 @@
 This is a sample file
 Cambiado en main
+<<<<<<< Updated upstream
 Stash Bug fix
+=======
+Stash example, Change in file1
+>>>>>>> Stashed changes
